@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.example.task2.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.task2.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/layout_fragment_profile.xml.flat",
+        "source": "com.example.task2.app-main-33:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/layout_fragment_settings.xml.flat",
+        "source": "com.example.task2.app-main-33:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.task2.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.task2.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.task2.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/layout_fragment_notifications.xml.flat",
+        "source": "com.example.task2.app-main-33:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/layout_fragment_main.xml.flat",
+        "source": "com.example.task2.app-main-33:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.task2.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.task2.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.task2.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/navigation_main_graph.xml.flat",
+        "source": "com.example.task2.app-main-33:/navigation/main_graph.xml"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.task2.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/drawable_baseline_person_24.xml.flat",
+        "source": "com.example.task2.app-main-33:/drawable/baseline_person_24.xml"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.task2.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.task2.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/drawable_baseline_contacts_24.xml.flat",
+        "source": "com.example.task2.app-main-33:/drawable/baseline_contacts_24.xml"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/menu_menu_main.xml.flat",
+        "source": "com.example.task2.app-main-33:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "com.example.task2.app-main-33:/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.task2.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.task2.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/drawable_baseline_notifications_24.xml.flat",
+        "source": "com.example.task2.app-main-33:/drawable/baseline_notifications_24.xml"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/layout_fragment_writed.xml.flat",
+        "source": "com.example.task2.app-main-33:/layout/fragment_writed.xml"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/layout_fragment_contacts.xml.flat",
+        "source": "com.example.task2.app-main-33:/layout/fragment_contacts.xml"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "com.example.task2.app-main-33:/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/layout_activity_fragment_main.xml.flat",
+        "source": "com.example.task2.app-main-33:/layout/activity_fragment_main.xml"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.task2.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.task2.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.task2.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "com.example.task2.app-main-33:/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.task2.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.task2.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.task2.app-debug-31:/drawable_baseline_settings_24.xml.flat",
+        "source": "com.example.task2.app-main-33:/drawable/baseline_settings_24.xml"
+    }
+]
