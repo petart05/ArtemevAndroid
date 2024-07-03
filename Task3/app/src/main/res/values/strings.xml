@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="button">Button</string>
+    <string name="main_screen">Main</string>
+    <string name="bottom_text">Send</string>
+    <string name="profile_screen">Profile</string>
+    <string name="contacts_screen">Contacts</string>
+    <string name="notifications_screen">Notifications</string>
+    <string name="cities_screen">Cities</string>
+
+</resources>

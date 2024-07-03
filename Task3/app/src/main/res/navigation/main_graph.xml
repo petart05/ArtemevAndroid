@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_graph"
+    app:startDestination="@id/mainFragment">
+    <fragment
+        android:id="@+id/notificationsFragment"
+        android:name="com.example.homework1.NotificationsFragment"
+        android:label="MainFragment"
+        tools:layout="@layout/fragment_main"/>
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.homework1.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile"/>
+    <fragment
+        android:id="@+id/citiesFragment"
+        android:name="com.example.homework1.CitiesFragment"
+        android:label="CitiesFragment"
+        tools:layout="@layout/fragment_cities">
+        <action
+            android:id="@+id/action_citiesFragment_to_cityFragment"
+            app:destination="@id/cityFragment"
+            app:enterAnim="@android:anim/slide_in_left"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.example.homework1.MainFragment"
+        android:label="MainFragment" >
+        <action
+            android:id="@+id/action_mainFragment_to_writedFragment"
+            app:destination="@id/writedFragment"
+            app:enterAnim="@android:anim/slide_in_left" />
+    </fragment>
+    <fragment
+        android:id="@+id/contactsFragment"
+        android:name="com.example.homework1.ContactsFragment"
+        android:label="ContactsFragment" />
+    <fragment
+        android:id="@+id/writedFragment"
+        android:name="com.example.homework1.WritedFragment"
+        android:label="WritedFragment" />
+    <fragment
+        android:id="@+id/cityFragment"
+        android:name="com.example.homework1.CityFragment"
+        android:label="CityFragment">
+        <action
+            android:id="@+id/action_cityFragment_to_citiesFragment"
+            app:destination="@id/citiesFragment"
+            app:enterAnim="@android:anim/slide_in_left"/>
+    </fragment>
+</navigation>

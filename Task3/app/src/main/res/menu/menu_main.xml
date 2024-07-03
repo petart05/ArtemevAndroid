@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/profileFragment"
+        android:title="@string/profile_screen"
+        android:icon="@drawable/baseline_person_24"/>
+    <item
+        android:id="@+id/citiesFragment"
+        android:title="@string/cities_screen"
+        android:icon="@drawable/baseline_location_city_24"/>
+    <item
+        android:id="@+id/contactsFragment"
+        android:title="@string/contacts_screen"
+        android:icon="@drawable/baseline_contacts_24"/>
+    <item
+        android:id="@+id/notificationsFragment"
+        android:title="@string/notifications_screen"
+        android:icon="@drawable/baseline_notifications_24"/>
+    <item
+        android:id="@+id/mainFragment"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/main_screen"/>
+
+</menu>
